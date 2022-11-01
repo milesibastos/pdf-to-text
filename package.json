@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/zetahernandez/pdf-to-text",
   "devDependencies": {
-    "mocha": "~1.21.4",
+    "mocha": "~10.1.0",
     "should": "~4.0.4",
     "standard": "^10.0.3"
   },
